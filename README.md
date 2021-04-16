@@ -13,10 +13,10 @@ File Descriptions.
 
 **On counting special basis of R^3:** 
 
-Counting the number of basis sets of R^3 whose vectors are made only of 0s and 1s.
+> Counting the number of basis sets of R^3 whose vectors are made only of 0s and 1s.
 
 **Open cover around rationals:** 
 
-Finding enumerations {q_n} of the rational numbers such that the family of sets {q_n - 1/n, q_n + 1/n} covers or doesn't cover the whole real line.
+> Finding enumerations {q_n} of the rational numbers such that the family of sets {q_n - 1/n, q_n + 1/n} covers or doesn't cover the whole real line.
 
 
